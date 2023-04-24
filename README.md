@@ -1,4 +1,4 @@
-# Projeto Meteorologia (Nome do Projeto)
+# Projeto Meteorologia (Teste Dedilly)
 
 Projeto Meteorologia é uma aplicação web que utiliza o servidor Express.js no backend e o React.js no frontend para exibir informações meteorológicas de uma API de terceiros.
 
@@ -24,9 +24,7 @@ Siga estas etapas para instalar e configurar o projeto:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-meteorologia.git
-cd projeto-meteorologia
-
+git clone git@github.com:Fedevops/testededilly.git
 
 2 - Instale as dependências do backend e do frontend:
     cd backend
