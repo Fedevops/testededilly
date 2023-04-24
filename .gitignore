@@ -1,0 +1,53 @@
+# Arquivo .gitignore
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Diretório de runtime
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Diretórios de build e dependências
+/backend/node_modules
+/frontend/node_modules
+/dist
+/build
+
+# Arquivos de ambiente e configuração
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Arquivos do editor
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.bak
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Arquivos de teste
+/coverage
+/.nyc_output
+
+# Outros
+*.log.*
+npm-debug.log
+yarn-debug.log
+yarn-error.log
